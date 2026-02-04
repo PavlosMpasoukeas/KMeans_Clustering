@@ -1,2 +1,2 @@
 # KMeans_Clustering
-My reportof the project is right here--> docs/report2.pdf
+My report of the project is right here--> C:\Users\30694\OneDrive\Desktop\YNask2\Ask2\Ask2\report2.pdf
